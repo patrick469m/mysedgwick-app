@@ -33,7 +33,7 @@ To get started with MySedgwick App, follow these instructions:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/mysedgwick-app.git
+   git clone https://github.com/patrick469m/mysedgwick-app.git
 2. **Navigate to the Project Directory**:
    ```bash
    cd mysedgwick-app
