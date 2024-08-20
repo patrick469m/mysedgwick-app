@@ -21,7 +21,7 @@ MySedgwick App helps organizations manage their claims seamlessly. The app is bu
 ## Author
 - **Name**: Patrick Matthews  
 - **Email**: patrick469matthews@outlook.com  
-- **Website**: MySedgwick App
+- **Website**: [MySedgwick App](https://www.my-sedgwick.com)
 - Patrick Matthews is an experienced software engineer with a strong background in developing and managing applications focused on claims processing and management.
 - With a passion for coding and a commitment to delivering high-quality software, Patrick excels at creating solutions that enhance operational efficiency.
 - Known for his problem-solving skills and collaborative nature.
